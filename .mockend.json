@@ -1,5 +1,7 @@
-{
-  "User": {
-    "title": { "string": {} }
-  }
-}
+[{
+	"label": "English",
+	"value": "en"
+}, {
+	"label": "Chinese (Simplified, PRC)",
+	"value": "zh-CN"
+}]
