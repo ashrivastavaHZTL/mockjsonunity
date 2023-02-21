@@ -1,5 +1,9 @@
 {
-  "User": {
-    "title": { "string": {} }
-  }
+    "languages": [
+        { "label": "English", "value": "EN" },
+        { "label": "Spanish", "value": "ES" },
+        { "label": "German", "value": "DE" },
+        { "label": "Hindi", "value": "HI" },
+        { "label": "Chinese Simplified", "value": "ZH" }
+    ]
 }
