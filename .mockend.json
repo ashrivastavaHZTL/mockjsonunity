@@ -1,7 +1,10 @@
-[{
-	"label": "English",
-	"value": "en"
-}, {
-	"label": "Chinese (Simplified, PRC)",
-	"value": "zh-CN"
-}]
+{
+	"Languages": [{
+		"label": "English",
+		"value": "en"
+	}, {
+		"label": "Chinese (Simplified, PRC)",
+		"value": "zh-CN"
+	}]
+}
+
